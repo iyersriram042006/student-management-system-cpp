@@ -29,3 +29,5 @@ g++ src/main.cpp src/Student.cpp src/Database.cpp -o sms
 Run:
 
 ./sms
+
+# Created by Sriram Iyer
