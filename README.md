@@ -30,4 +30,5 @@ Run:
 
 ./sms
 
-# Created by Sriram Iyer
+# Author
+Sriram Iyer
